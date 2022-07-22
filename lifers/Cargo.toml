@@ -13,7 +13,7 @@ bevy_kira_audio = "0.10.0"
 [features]
 default = [
     "bevy/bevy_winit",
-    "bevy/bevy_render",
+    "bevy/render",
     "bevy/x11",
 ]
 
