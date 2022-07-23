@@ -9,4 +9,5 @@
 # nesting
 # probabilistic
 # genetic
+# memory
 # reinforcment?
